@@ -1,0 +1,60 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/local-chat.png",
+            "height": 9, "ascent": 8,
+            "chars": ["\uA954"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:emoji/eye_creaking.png",
+            "height": 9, "ascent": 8,
+            "chars": ["\uA955"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/echo.png",
+            "height": 30, "ascent": 30,
+            "chars": ["\uA956"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:emoji/mini-monologo.png",
+            "height": 18, "ascent": 8,
+            "chars": ["\uA957"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:emoji/cubebyte.png",
+            "height": 12, "ascent": 4,
+            "chars": ["\uA958"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:misc/ec1.png",
+            "height": 140, "ascent": 65,
+            "chars": ["\uAAD6"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:misc/ec2.png",
+            "height": 140, "ascent": 65,
+            "chars": ["\uAAD7"]
+        },
+	    {
+            "type": "bitmap",
+            "file": "minecraft:misc/ec3.png",
+            "height": 140, "ascent": 65,
+            "chars": ["\uAAD8"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:misc/ec4.png",
+            "height": 140, "ascent": 65,
+            "chars": ["\uAAD9"]
+        }
+		
+		
+    ]
+}
